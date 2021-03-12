@@ -1,22 +1,14 @@
 <h1 align="center">hello again, world!</h1>
 
-## Tech stack:
+learning to become a polyglot software engineer. striving to build & ship useful projects regularly in the future.
 
-- web
-  - nextjs/react/ts/tailwindcss
-  - firebase/aws
-  - fastapi/flask/django
-- mobile
-  - flutter
-  - android native
-- ml
-  - some nlu/vision
-  - recommender sys
-  
-## Interests
-
-- webapps/apps
-- deeplearning
+interested in:
+- webapp/app dev
+- fun ai/ml applications (vision/nlu)
 - ar/vr
-- saas
 - competitive programming
+
+building
+- sincetill apps
+- pay them forward
+- [a better learning tool/saas]
