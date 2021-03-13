@@ -10,5 +10,5 @@ interested in:
 
 building:
 - sincetill apps
-- pay them forward
+- [pay them forward](paythemforward.com)
 - [a better learning tool/saas]
