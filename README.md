@@ -11,6 +11,7 @@ interested in:
 
 building:
 
-- [SinceTill.com](https://sincetill.com) and apps
-- [PayThemForward.com](https://paythemforward.com)
-- [a better learning tool/saas]
+- [sincetill.com](https://sincetill.com) and apps
+- [paythemforward.com](https://paythemforward.com)
+- [sf - a better learning tool]
+- [cw - a personal finance app]
