@@ -12,7 +12,10 @@ interested in:
 building:
 
 - [sincetill.com](https://sincetill.com) and apps
-- [paythemforward.com](https://paythemforward.com)
 - [sf - a better learning tool]
 - [cw - a personal finance app]
 - [gv - a plant/gardening community]
+
+shipped:
+
+- 2021/04 [paythemforward.com](https://paythemforward.com)
