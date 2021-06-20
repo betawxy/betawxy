@@ -11,11 +11,11 @@ interested in:
 
 building:
 
-- [sincetill.com](https://sincetill.com) and apps
+- [sincetill.com](https://sincetill.com) and apps - iOS/android/web app built with flutter/nextjs/firebase
 - [sf - a better learning tool]
 - [cw - a personal finance app]
 - [gv - a plant/gardening community]
 
 shipped:
 
-- 2021/05 [paythemforward.com](https://paythemforward.com)
+- 2021/05 [paythemforward.com](https://paythemforward.com) - react/firebase/typescript/tailwindcss webapp
